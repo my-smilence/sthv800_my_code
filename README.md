@@ -1,4 +1,4 @@
-# my_code
+# sthv800_my_code
 my first verilog project  (verilog for sthv800)
 
 coding for sthv800:Octal ±90 V, ±2 A, 3-level RTZ, high-speed ultrasound pulser
